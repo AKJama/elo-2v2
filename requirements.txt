@@ -1,0 +1,5 @@
+nbstripout==0.6.1
+python==3.11.5
+pandas==2.0.3
+openpyxl==3.0.10
+seaborn==0.12.2
